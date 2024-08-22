@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login-container {
+  /* background-color: white; */
+  height: auto;
+  border-radius: 50px;
+  background-color: rgb(224, 224, 224);
+}
+
+#shadow {
+  box-shadow: 6px 6px 12px #a1a1a1, -6px -6px 12px #ffffff;
+}
+
+#cardShadow {
+  border-radius: 25px;
+  background: linear-gradient(145deg, #e6e6e6, #ffffff);
+  box-shadow: 11px 11px 16px #b3b3b3, -11px -11px 16px #ffffff;
+}
+
+#loginContainer {
+  height: 100vh;
+  width: 100vw;
+}
+
+.login-Box {
+  background-color: rgb(240, 239, 239);
+}
+
+form div div {
+  height: 30px;
+}
+
+/* ~~~~~~~~~~~~~~ Header ~~~~~~~~~~~~~~~~~ */
+nav {
+  background-color: rgb(127, 164, 242);
+}

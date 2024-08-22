@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Introduction to Computer Science",
+        "description": "A beginner's course on the fundamentals of computer science, including programming basics, algorithms, and data structures.",
+        "duration": "12 weeks",
+        "instructor": "Dr. Jane Smith",
+        "schedule": {
+            "days": [
+                "Monday",
+                "Wednesday"
+            ],
+            "time": "10:00 AM - 12:00 PM"
+        }
+    },
+    {
+        "title": "Advanced Machine Learning",
+        "description": "An advanced course focusing on machine learning techniques, including deep learning, natural language processing, and reinforcement learning.",
+        "duration": "8 weeks",
+        "instructor": "Prof. John Doe",
+        "schedule": {
+            "days": [
+                "Tuesday",
+                "Thursday"
+            ],
+            "time": "2:00 PM - 4:00 PM"
+        }
+    },
+    {
+        "title": "Data Science with Python",
+        "description": "A comprehensive course on data science using Python, covering data analysis, visualization, and statistical modeling.",
+        "duration": "10 weeks",
+        "instructor": "Dr. Alice Johnson",
+        "schedule": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "time": "1:00 PM - 3:00 PM"
+        }
+    },
+    {
+        "title": "Web Development Bootcamp",
+        "description": "An intensive bootcamp on web development, including HTML, CSS, JavaScript, and popular frameworks such as React and Angular.",
+        "duration": "6 weeks",
+        "instructor": "Ms. Emily Davis",
+        "schedule": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "time": "9:00 AM - 11:00 AM"
+        }
+    }
+]
