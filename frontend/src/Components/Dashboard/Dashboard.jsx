@@ -9,8 +9,9 @@ import SideBar from "./SideBar.jsx";
 import API_URLs from "../../API_URLs.js";
 import AllCourses from "./CourseTab/AllCourses.jsx";
 import RegisteredCourse from "./RegisterCourseTab/registeredCourse.jsx";
+import Home from "./HomeTab/Home.jsx";
 
-export default function Home() {
+export default function Dashboard() {
     const [showShow, setShowShow] = useState(false);
     const [allCourse, setAllCourse] = useState([]);
     const [activeTab, setActiveTab] = useState('home'); // Default to 'home' or any other initial value
@@ -69,7 +70,7 @@ export default function Home() {
                             {
                                 activeTab === 'home' ?
                                     <>
-                                        <h1>Home Tab</h1>
+                                        <Home/>
                                     </>
                                     :
                                     activeTab === 'courses' ? <>
